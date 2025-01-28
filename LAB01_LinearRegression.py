@@ -30,7 +30,7 @@ def plot_regression(hrs_practiced, proficiency_lvl):
     plt.legend()
     plt.show()
 
-# Display results
+# DISPLAY RESULTS
 print(f"Slope: {slope}")
 print(f"Y-Intercept: {b}")
 
